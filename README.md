@@ -12,7 +12,8 @@ Project is created with:
 	
 ## Setup
 To run this project, install it locally.
-What you need to install to run project:
+<br>
+What you need, to run project:
 
 ```
 install python
